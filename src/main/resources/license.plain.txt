@@ -1,0 +1,13 @@
+﻿##########license content###########
+#授权方
+licensedBy= 北京华焱坤泰科技有限公司
+#被授权方
+licensedTo=北京鹏龙行汽车贸易有限公司
+#产品名称
+productName=保险金融系统（IFIS）
+#版本
+edition=commercial
+#授权日期
+issueDate=2017-11-05
+#有效截止日期
+expireDate=2018-02-01
